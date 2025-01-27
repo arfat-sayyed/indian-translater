@@ -4,6 +4,7 @@
   "description": "A powerful translation library for Indian languages with support for date, currency, and number formatting",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "test": "jest",
